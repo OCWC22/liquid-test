@@ -1,0 +1,1 @@
+https://docs.liquid.ai/examples/deploy-models-on-ios/slogan-generator-app
